@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s \"https://api.github.com/repos/dearabhin/blog/git/trees/main?recursive=1\")",
+      "Bash(mkdir -p .github/workflows doc/.vitepress/theme doc/public doc/modules doc/projects)",
+      "Bash(curl -s -o doc/.vitepress/theme/index.js \"https://raw.githubusercontent.com/dearabhin/blog/main/doc/.vitepress/theme/index.js\")",
+      "Bash(curl -s -o doc/.vitepress/theme/style.css \"https://raw.githubusercontent.com/dearabhin/blog/main/doc/.vitepress/theme/style.css\")",
+      "Bash(curl -s -o doc/public/favicon.svg \"https://raw.githubusercontent.com/dearabhin/blog/main/doc/public/favicon.svg\")"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "biosignal-notes",
+  "version": "1.0.0",
+  "description": "Introduction to Biomedical Signal Processing (PBEBT504) — project-based learning notes, code, and capstone projects by Abhin Krishna",
+  "scripts": {
+    "docs:dev": "vitepress dev doc",
+    "docs:build": "vitepress build doc",
+    "docs:preview": "vitepress preview doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dearabhin/biosignal.git"
+  },
+  "keywords": [
+    "biomedical-signal-processing",
+    "dsp",
+    "ecg",
+    "eeg",
+    "emg",
+    "bci",
+    "vitepress"
+  ],
+  "author": "Abhin Krishna",
+  "license": "MIT",
+  "homepage": "https://github.com/dearabhin/biosignal#readme",
+  "devDependencies": {
+    "markdown-it-mathjax3": "^4.3.2",
+    "mermaid": "^11.15.0",
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-mermaid": "^2.0.17",
+    "vue": "^3.5.34"
+  }
+}
