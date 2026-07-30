@@ -2,9 +2,7 @@
 
 > Project-based learning notes, runnable code, and research-grade capstone projects for Semester 5 — **DSP foundations → ECG/EEG/EMG analysis → digital filters → BCIs.**
 
-A VitePress documentation site by **[Abhin Krishna](https://blog.abhinkrishna.com)** — built as a public learning log for the S5 Biomedical Signal Processing course at Govt. Model Engineering College, Thrikkakara.
-
-🔗 **Live site:** https://dearabhin.github.io/biosignal/
+A VitePress documentation site by **[Abhin Krishna](https://abhinkrishna.com)** — built as a public learning log for the S5 Biomedical Signal Processing course at Govt. Model Engineering College, Thrikkakara.
 
 ---
 
